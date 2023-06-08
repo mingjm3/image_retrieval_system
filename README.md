@@ -57,7 +57,7 @@ Showcase: https://www.youtube.com/watch?v=6zu_ttuSKGU
     </div>
     <div style="flex: 50%; padding: 10px;">
         <img src="assets/result.jpg" alt="Result" style="width: 30%;">
-        <p style="text-align: center;">Result</p>
+        <p style="text-align: center;">Return the most similar image in image dataset</p>
     </div>
 </div>
 
