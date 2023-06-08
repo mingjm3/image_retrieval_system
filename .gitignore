@@ -31,9 +31,6 @@
 *.out
 *.app
 
-# Cmake
-CMakeLists.txt
-
 # Compiled files
 build
 /src/model
