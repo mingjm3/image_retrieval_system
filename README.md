@@ -46,14 +46,16 @@ Using **CMakeLists.txt** to build project.
     ./app ${path_to_query_image} ${path_to_visual_vocabulary} ${path_to_vlad_vector_model}
 ```
 
+Showcase: https://www.youtube.com/watch?v=6zu_ttuSKGU
+
 ## Result
 
 <div style="display:flex; justify-content: center;">
-    <div style="flex: 50%; padding: 10px;">
+    <div style="flex: 10%; padding: 10px;">
         <img src="assets/query.jpg" alt="Query image from user" style="width: 100%;">
         <p style="text-align: center;">Query image from user</p>
     </div>
-    <div style="flex: 40%; padding: 10px;">
+    <div style="flex: 10%; padding: 10px;">
         <img src="assets/result.jpg" alt="Result" style="width: 100%;">
         <p style="text-align: center;">Result</p>
     </div>
