@@ -51,12 +51,12 @@ Showcase: https://www.youtube.com/watch?v=6zu_ttuSKGU
 ## Result
 
 <div style="display:flex; justify-content: center;">
-    <div style="flex: 10%; padding: 10px;">
-        <img src="assets/query.jpg" alt="Query image from user" style="width: 100%;">
+    <div style="flex: 30%; padding: 10px;">
+        <img src="assets/query.jpg" alt="Query image from user" style="width: 10%;">
         <p style="text-align: center;">Query image from user</p>
     </div>
     <div style="flex: 10%; padding: 10px;">
-        <img src="assets/result.jpg" alt="Result" style="width: 100%;">
+        <img src="assets/result.jpg" alt="Result" style="width: 10%;">
         <p style="text-align: center;">Result</p>
     </div>
 </div>
