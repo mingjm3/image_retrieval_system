@@ -36,3 +36,7 @@ CMakeLists.txt
 
 # Compiled files
 build
+/src/model
+
+# IDEA files
+.vscode
